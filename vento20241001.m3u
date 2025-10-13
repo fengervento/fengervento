@@ -1,6 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1,凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1,CCTV-1 综合
 https://zby.130519.xyz/PLTV/11/224/3221226163/index.m3u8?
 #EXTINF:-1,CCTV-2 财经
@@ -175,3 +173,4 @@ http://106.53.99.30/tv/hot.php?id=cetv1
 http://106.53.99.30/tv/hot.php?id=cetv2
 #EXTINF:-1,CETV-4
 http://106.53.99.30/tv/hot.php?id=cetv4
+
