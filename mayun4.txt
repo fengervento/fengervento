@@ -598,7 +598,6 @@ NOW新闻台,http://cdn.163189.xyz/163189/now
 澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 风儿ventoTV,#genre#
-南宁新闻综合,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁都市生活频道,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁影视娱乐频道,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
