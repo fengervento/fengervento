@@ -132,9 +132,9 @@ v=4282cdc9071e32fd382778e37d8bf172&t=2024816762
 
 v=654a4f856ca8f4ea018b85acb77572e8&t=2024816762
 梧州新闻综合,http://ik.zjx5106.xyz:8001/rtp/239.81.0.176:4056
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
@@ -142,9 +142,7 @@ v=654a4f856ca8f4ea018b85acb77572e8&t=2024816762
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
-无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 有线新闻,http://hls.168.us.kg/u/78/master.m3u8
@@ -524,9 +522,9 @@ CCTV-14少儿,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 新疆卫视,http://106.53.99.30/tv/hot.php?id=xjws
 山西卫视,http://106.53.99.30/tv/hot.php?id=shanxws
 港澳台,#genre#
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
