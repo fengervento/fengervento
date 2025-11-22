@@ -116,9 +116,6 @@ CCTV-17农业农村,http://106.53.99.30/tv/hot.php?id=cctv17
 广西新闻,http://ik.zjx5106.xyz:8001/rtp/239.81.0.248:4056
 南宁新闻综合,http://ik.zjx5106.xyz:8001/rtp/239.81.0.241:4056
 柳州新闻综合,http://ik.zjx5106.xyz:8001/rtp/239.81.0.175:4056
-桂林新闻综合,http://ik.zjx5106.xyz:8001/rtp/239.81.0.174:4056
-桂林科教旅游,http://ik.zjx5106.xyz:8001/udp/239.81.0.221:4056
-桂林公共频道,http://ik.zjx5106.xyz:8001/udp/239.81.0.222:4056
 桂林新闻综合,https://pull.gltvs.com:443/live/glxw/playlist.m3u8?
 
 v=b0528684bf934e120e1c30fc808e6576&t=1796868188
@@ -131,6 +128,9 @@ v=4282cdc9071e32fd382778e37d8bf172&t=2024816762
 桂林公共频道,https://pull.gltvs.com/live/glgg/playlist.m3u8?
 
 v=654a4f856ca8f4ea018b85acb77572e8&t=2024816762
+桂林新闻综合,http://ik.zjx5106.xyz:8001/rtp/239.81.0.174:4056
+桂林科教旅游,http://ik.zjx5106.xyz:8001/udp/239.81.0.221:4056
+桂林公共频道,http://ik.zjx5106.xyz:8001/udp/239.81.0.222:4056
 梧州新闻综合,http://ik.zjx5106.xyz:8001/rtp/239.81.0.176:4056
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
