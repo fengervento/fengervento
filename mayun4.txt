@@ -1,5 +1,6 @@
 风儿vento电视,#genre#
 CCTV-1综合,http://go.bkpcp.top/mg/cctv1
+CCTV-1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-2财经,http://go.bkpcp.top/mg/cctv2
 CCTV-3综艺,http://go.bkpcp.top/mg/cctv3
 CCTV-4中文国际,http://go.bkpcp.top/mg/cctv4
@@ -149,14 +150,14 @@ v=654a4f856ca8f4ea018b85acb77572e8&t=2024816762
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
-有线新闻,http://hls.168.us.kg/u/78/master.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 NOW新闻台,http://cdn.163189.xyz/163189/now
 NOW新闻台,http://hls.168.us.kg/u/332/master.m3u8
-NOW直播台,http://hls.168.us.kg/u/331/master.m3u8
+RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 澳门莲花,https://fenghuang.tv12.xyz/187.m3u8
 澳门Macau,http://php.jdshipin.com/TVOD/iptv.php?id=as
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
