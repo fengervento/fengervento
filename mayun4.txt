@@ -4,8 +4,6 @@ CCTV-1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-2财经,http://go.bkpcp.top/mg/cctv2
 CCTV-3综艺,http://go.bkpcp.top/mg/cctv3
 CCTV-4中文国际,http://go.bkpcp.top/mg/cctv4
-CCTV-4中文国际 美洲,http://106.53.99.30/tv/hot.php?id=cctv4m
-CCTV-4中文国际 欧洲,http://106.53.99.30/tv/hot.php?id=cctv4o
 CCTV-5体育,http://go.bkpcp.top/mg/cctv5
 CCTV-5+体育赛事,http://go.bkpcp.top/mg/cctv5p
 CCTV-6电影,http://go.bkpcp.top/mg/cctv6
