@@ -397,10 +397,12 @@ RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
+半岛电视台,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 美国有线新闻,https://newsmax-vizio.amagi.tv/playlist720p.m3u8
 BBC NEWS,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 Zoo Moo (Australia),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+Action Hollywood,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
 CCTV-1综合,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 CCTV-2财经,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
 CCTV-3综艺,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
