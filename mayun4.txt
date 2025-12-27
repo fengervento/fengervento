@@ -212,7 +212,9 @@ CCTV-15音乐,http://218.17.33.178:53290/tsfile/live/1015_1.m3u8
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广西卫视,http://113.15.109.216:59901/tsfile/live/0113_1.m3u8
+广西卫视,http://74.48.192.96:82/live.php?id=广西卫视
 广西卫视,https://60.191.56.186:8888/hls/58/index.m3u8
+广西卫视,http://genglei.8866.org:9901/tsfile/live/1029_1.m3u8
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
@@ -292,6 +294,7 @@ WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 Zoo Moo (Australia),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 Action Hollywood,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
 省卫视,#genre#
+北京卫视,http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K&auth=666858
 上海新闻综合,http://www.wmviv.com/iptv/bc2t.php?id=shxwzh
 上海新闻综合,https://migu.188766.xyz/?migutoken=41f5a9baf17de63b6fa4571be7538646&id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
 浙江卫视,https://60.191.56.186:8888/hls/17/index.m3u8
@@ -371,6 +374,8 @@ Action Hollywood,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningi
 江苏卫视,https://svipsvip.ffzyread1.com/20250101/34720_0d5e4b60/index.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 云南卫视,http://218.13.14.6:60050/tsfile/live/1038_1.m3u8
+广西卫视,http://74.48.192.96:82/live.php?id=广西卫视
+广西卫视,http://genglei.8866.org:9901/tsfile/live/1029_1.m3u8
 港澳台,#genre#
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
