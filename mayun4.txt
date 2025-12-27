@@ -279,9 +279,9 @@ RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 澳门资讯,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
 澳门Macau,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
 澳视葡语,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
+寰宇新闻,http://165.154.226.214:50007/li-litv-longturn14/index.m3u8?proxy=true
 寰宇新闻,http://m-star.direct.quickconnect.to:7531/litv-longturn14/index.m3u8?proxy=true
 寰宇新闻,http://m-star.direct.quickconnect.to:7531/of-litv-longturn14/index.m3u8?proxy=true
-寰宇新闻,http://165.154.226.214:50007/li-litv-longturn14/index.m3u8?proxy=true
 寰宇新闻,https://stream1.freetv.fun/huan-yu-xin-wen-22.m3u8
 TVBS新闻,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv072/index.m3u8?proxy=true
 TVBS新闻,http://211.23.125.95:50007/li-4gtv-4gtv072/index.m3u8?proxy=true
