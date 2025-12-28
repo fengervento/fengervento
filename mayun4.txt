@@ -10,7 +10,6 @@ CCTV-4中文欧洲,https://www.wmviv.com/iptv/bc2t.php?id=cctv4o
 CCTV-4中文欧洲,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E6%AC%A7%E6%B4%B2
 CCTV-4中文欧洲,https://migu.188766.xyz/?migutoken=bbfc5c4fc7713f8d8b913569814fd0c5&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
 CCTV-4中文欧洲,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-CCTV-4中文美洲,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E7%BE%8E%E6%B4%B2
 CCTV-4中文美洲,http://yp.qqqtv.top/bc/bc.php?id=CCTV-4+%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85+%E7%BE%8E%E6%B4%B2&auth=66615415
 CCTV-5体育,http://go.bkpcp.top/mg/cctv5
 CCTV-5+体育赛事,http://go.bkpcp.top/mg/cctv5p
