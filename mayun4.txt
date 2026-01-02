@@ -4,9 +4,6 @@ CCTV-1港澳,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-2财经,http://go.bkpcp.top/mg/cctv2
 CCTV-3综艺,http://go.bkpcp.top/mg/cctv3
 CCTV-4中文国际,http://go.bkpcp.top/mg/cctv4
-CCTV-4中文欧洲,http://yp.qqqtv.top/bc/bc.php?id=CCTV-4+%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85+%E6%AC%A7%E6%B4%B2&auth=66615415
-CCTV-4中文欧洲,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-CCTV-4中文美洲,http://yp.qqqtv.top/bc/bc.php?id=CCTV-4+%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85+%E7%BE%8E%E6%B4%B2&auth=66615415
 CCTV-5体育,http://go.bkpcp.top/mg/cctv5
 CCTV-5+体育赛事,http://go.bkpcp.top/mg/cctv5p
 CCTV-6电影,http://go.bkpcp.top/mg/cctv6
@@ -237,8 +234,6 @@ NOW新闻台,http://hls.168.us.kg/u/332/master.m3u8
 NOW直播台,http://hls.168.us.kg/u/331/master.m3u8
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-澳门莲花,https://fenghuang.tv12.xyz/187.m3u8
 澳门Macau,http://php.jdshipin.com/TVOD/iptv.php?id=as
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳门资讯,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
