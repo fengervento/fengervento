@@ -178,6 +178,22 @@ CCTV-12社会与法,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8
 CCTV-13新闻,http://218.15.183.23:9901/tsfile/live/23031_1.m3u8
 CCTV-14少儿,http://218.17.33.178:53290/tsfile/live/1014_1.m3u8
 CCTV-15音乐,http://218.17.33.178:53290/tsfile/live/1015_1.m3u8
+CCTV-1综合,https://migu.188766.xyz/?migutoken=f88ac9cd4039e84a018e071e36c16237&id=CCTV1&type=yy
+CCTV-2财经,https://migu.188766.xyz/?migutoken=c64ca8b6de6fea0e2eb2739b03056b50&id=CCTV2&type=yy
+CCTV-3综艺,https://migu.188766.xyz/?migutoken=13f751a7091247ba1f2e0b82299bbb6d&id=CCTV3&type=yy
+CCTV-4中文国际,https://migu.188766.xyz/?migutoken=c9cfc8ee5405263448dcdce25ae758fd&id=CCTV4&type=yy
+CCTV-5体育,https://migu.188766.xyz/?migutoken=763b4e6a2dc36a2fc9bce9561156de93&id=CCTV5&type=yy
+CCTV-5+体育赛事,https://migu.188766.xyz/?migutoken=106f338e986b8dc33591373ac654068a&id=CCTV5p&type=yy
+CCTV-6电影,https://migu.188766.xyz/?migutoken=e39c6201bb56d4b7caffe42b8dc2fa08&id=CCTV6&type=yy
+CCTV-7国防军事,https://migu.188766.xyz/?migutoken=a4282ec143f035d9bc77404eeed37a8e&id=CCTV7&type=yy
+CCTV-8电视剧,https://migu.188766.xyz/?migutoken=21d2aa8f102e657595bc735ec83cb9b4&id=CCTV8&type=yy
+CCTV-9纪录,https://migu.188766.xyz/?migutoken=99adab05483433b9bbf4c1af110760b3&id=CCTV9&type=yy
+CCTV-10科教,https://migu.188766.xyz/?migutoken=c1bf3b4f3a84441b01cb5908dc27819d&id=CCTV10&type=yy
+CCTV-11戏曲,https://migu.188766.xyz/?migutoken=adf985ee23b98a42ef9d96f9e0f06765&id=CCTV11&type=yy
+CCTV-12社会与法,https://migu.188766.xyz/?migutoken=e7b1306afa819c3a6b880e624ca50cdf&id=CCTV12&type=yy
+CCTV-13新闻,https://migu.188766.xyz/?migutoken=d0db65fcd5f76fbeec28a9231ac43c2c&id=CCTV13&type=yy
+CCTV-14少儿,https://migu.188766.xyz/?migutoken=a275e5d929b971589907ada83dfe34a6&id=CCTV14&type=yy
+CCTV-15音乐,https://migu.188766.xyz/?migutoken=df989cceb3c168618bb43fed0c9d89c0&id=CCTV15&type=yy
 广东卫视,https://60.191.56.186:8888/hls/38/index.m3u8
 广东卫视,http://go.bkpcp.top/mg/gdws
 广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
@@ -243,10 +259,11 @@ RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
-半岛电视台,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半岛电视台,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 今日俄罗斯,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 美国有线新闻,https://newsmax-vizio.amagi.tv/playlist720p.m3u8
 BBC NEWS,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+NBC News Now,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 Zoo Moo (Australia),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 Action Hollywood,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
@@ -399,11 +416,12 @@ CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 金鹰卡通,https://60.191.56.186:8888/hls/59/index.m3u8
-半岛电视台,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半岛电视台,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 今日俄罗斯,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 国际|REDBULL SPORTS,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 美国|CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 美国有线新闻,https://newsmax-vizio.amagi.tv/playlist720p.m3u8
 BBC NEWS,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+NBC News Now,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
