@@ -197,11 +197,6 @@ CCTV-13新闻,http://tvlist.top/jd/index.php?id=cctv13&qt=183.224.122.114:8014
 CCTV-14少儿,http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
 CCTV-15音乐,http://tvlist.top/jd/index.php?id=cctv15&qt=183.224.122.114:8014
 CCTV-16奥林匹克,http://tvlist.top/jd/index.php?id=cctv16&qt=183.224.122.114:8014
-CCTV-1综合,http://iptv.4666888.xyz/iptv2A.php?id=7
-CCTV-2财经,http://iptv.4666888.xyz/iptv2A.php?id=8
-CCTV-3综艺,http://iptv.4666888.xyz/iptv2A.php?id=9
-CCTV-4中文国际,http://iptv.4666888.xyz/iptv2A.php?id=10
-CCTV-13新闻,http://iptv.4666888.xyz/iptv2A.php?id=11
 CCTV-1综合,http://ms.fxim.net:808/hls/1/index.m3u8
 CCTV-2财经,http://ms.fxim.net:808/hls/2/index.m3u8
 CCTV-3综艺,http://ms.fxim.net:808/hls/3/index.m3u8
@@ -222,11 +217,9 @@ CCTV-17农业农村,http://ms.fxim.net:808/hls/17/index.m3u8
 广东卫视,https://60.191.56.186:8888/hls/38/index.m3u8
 广东卫视,http://go.bkpcp.top/mg/gdws
 广东卫视,http://hmfs.f3322.net:3388/hls/11/index.m3u8
-广东卫视,http://iptv.4666888.xyz/iptv2A.php?id=18
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
 广西卫视,http://113.15.109.216:59901/tsfile/live/0113_1.m3u8
 广西卫视,http://58.51.111.46:1111/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,https://60.191.56.186:8888/hls/58/index.m3u8
