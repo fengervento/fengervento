@@ -36,6 +36,7 @@ CCTV-14少儿,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
 CCTV-15音乐,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
 CCTV-16奥林匹克,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
 CCTV-17农业农村,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
+CCTV-13新闻,https://cdn3.163189.xyz/163189/cctv13
 CCTV-1综合,https://60.191.56.186:8888/hls/1/index.m3u8
 CCTV-2财经,https://60.191.56.186:8888/hls/2/index.m3u8
 CCTV-3综艺,https://60.191.56.186:8888/hls/3/index.m3u8
@@ -74,7 +75,6 @@ CCTV-9纪录,http://yp.qqqtv.top/bc/bc.php?id=CCTV-9+%E7%BA%AA%E5%BD%95&auth=666
 CCTV-10科教,http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858
 CCTV-11戏曲,http://yp.qqqtv.top/bc/bc.php?id=CCTV-11+%E6%88%8F%E6%9B%B2&auth=66615415
 CCTV-12社会与法,http://yp.qqqtv.top/bc/bc.php?id=CCTV-12+%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95&auth=66615415
-CCTV-13新闻,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13新闻,http://hmfs.f3322.net:3388/hls/8/index.m3u8
 CCTV-13新闻,http://113.25.252.226:9901/tsfile/live/1017_1.m3u8
 CCTV-15音乐,http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
