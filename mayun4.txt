@@ -442,7 +442,6 @@ RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 CCTV1港澳,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 亚洲卫视,https://fenghuang.tv12.xyz/173.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-澳门莲花,https://fenghuang.tv12.xyz/187.m3u8
 澳门Macau,http://php.jdshipin.com/TVOD/iptv.php?id=as
 澳门Macau,http://php.jdshipin.com/PLTV/iptv.php?id=as
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
