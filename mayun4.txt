@@ -275,6 +275,13 @@ NOW新闻台,http://cdn.163189.xyz/163189/now
 NOW新闻台,http://hls.168.us.kg/u/332/master.m3u8
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+RTHK31,http://rihou.cc:555/tv/[Cx]RTHK-31
+RTHK31,http://rihou.cc:555/tv/[Mt]RTHK-31
+RTHK31,http://rihou.cc:555/tv/[PL]RTHK-31
+RTHK31,http://rihou.cc:555/tv/[SX]RTHK-31
+RTHK32,http://rihou.cc:555/tv/[Cx]RTHK-32
+RTHK32,http://rihou.cc:555/tv/[PL]RTHK-32
+RTHK32,http://rihou.cc:555/tv/[SX]RTHK-32
 澳门Macau,http://php.jdshipin.com/TVOD/iptv.php?id=as
 澳门Macau,http://php.jdshipin.com/PLTV/iptv.php?id=as
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
@@ -510,6 +517,7 @@ CCTV1港澳,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 风儿ventoTV,#genre#
 广西新闻,http://ik.zjx5106.xyz:8001/rtp/239.81.0.248:4056
+南宁新闻综合,http://ik.zjx5106.xyz:8001/rtp/239.81.0.241:4056
 南宁新闻综合,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁新闻综合,rtmp://live.gxrb.com.cn/tv/nntv
@@ -524,6 +532,7 @@ CCTV1港澳,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 桂林新闻综合,https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 桂林科教旅游,https://pull.gltvs.com/live/glkj/playlist.m3u8?v=4282cdc9071e32fd382778e37d8bf172&t=2024816762
 桂林公共频道,https://pull.gltvs.com/live/glgg/playlist.m3u8?v=654a4f856ca8f4ea018b85acb77572e8&t=2024816762
+梧州新闻综合,http://ik.zjx5106.xyz:8001/rtp/239.81.0.176:4056
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
