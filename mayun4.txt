@@ -219,8 +219,11 @@ CCTV-17农业农村,http://23.237.228.134/live3/CCTV17.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 广西卫视,https://60.191.56.186:8888/hls/58/index.m3u8
 广西新闻,http://ik.zjx5106.xyz:8001/rtp/239.81.0.248:4056
+广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen.m3u8
 柳州新闻综合,http://ik.zjx5106.xyz:8001/rtp/239.81.0.175:4056
+柳州新闻综合,http://www.lnlee.top:65535/udp/239.81.0.134:4056
 桂林新闻综合,http://ik.zjx5106.xyz:8001/rtp/239.81.0.174:4056
+桂林新闻综合,http://www.lnlee.top:65535/udp/239.81.0.135:4056
 桂林科教旅游,http://ik.zjx5106.xyz:8001/udp/239.81.0.221:4056
 桂林公共频道,http://ik.zjx5106.xyz:8001/udp/239.81.0.222:4056
 凤凰香港,http://r.jdshipin.com/yDoTN
@@ -517,6 +520,7 @@ CCTV1港澳,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 风儿ventoTV,#genre#
 广西新闻,http://ik.zjx5106.xyz:8001/rtp/239.81.0.248:4056
+广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen.m3u8
 南宁新闻综合,http://ik.zjx5106.xyz:8001/rtp/239.81.0.241:4056
 南宁新闻综合,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
@@ -533,6 +537,11 @@ CCTV1港澳,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 桂林科教旅游,https://pull.gltvs.com/live/glkj/playlist.m3u8?v=4282cdc9071e32fd382778e37d8bf172&t=2024816762
 桂林公共频道,https://pull.gltvs.com/live/glgg/playlist.m3u8?v=654a4f856ca8f4ea018b85acb77572e8&t=2024816762
 梧州新闻综合,http://ik.zjx5106.xyz:8001/rtp/239.81.0.176:4056
+柳州新闻综合,http://www.lnlee.top:65535/udp/239.81.0.134:4056
+桂林新闻综合,http://www.lnlee.top:65535/udp/239.81.0.135:4056
+北海新闻综合,http://www.lnlee.top:65535/udp/239.81.0.136:4056
+贺州新闻综合,http://www.lnlee.top:65535/udp/239.81.0.137:4056
+玉林新闻综合,http://www.lnlee.top:65535/udp/239.81.0.138:4056
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
