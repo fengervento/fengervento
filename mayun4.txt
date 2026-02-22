@@ -244,6 +244,10 @@ CCTV-17农业农村,http://23.237.228.134/live3/CCTV17.m3u8
 广西卫视,https://60.191.56.186:8888/hls/58/index.m3u8
 广西新闻,http://ik.zjx5106.xyz:8001/rtp/239.81.0.248:4056
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen.m3u8
+南宁新闻综合,rtmp://live.gxrb.com.cn/tv/nntv
+南宁新闻综合,http://ik.zjx5106.xyz:8001/rtp/239.81.0.241:4056
+南宁新闻综合,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
+南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 柳州新闻综合,http://ik.zjx5106.xyz:8001/rtp/239.81.0.175:4056
 柳州新闻综合,http://www.lnlee.top:65535/udp/239.81.0.134:4056
 桂林新闻综合,rtmp://202.103.242.190/live/TVxw
@@ -256,6 +260,9 @@ CCTV-17农业农村,http://23.237.228.134/live3/CCTV17.m3u8
 桂林新闻综合,http://www.lnlee.top:65535/udp/239.81.0.135:4056
 桂林科教旅游,http://ik.zjx5106.xyz:8001/udp/239.81.0.221:4056
 桂林公共频道,http://ik.zjx5106.xyz:8001/udp/239.81.0.222:4056
+梧州新闻综合,http://live.wuzhourm.cn/xwzh/index.m3u8
+梧州新闻综合,http://live.wuzhourm.cn:80/xwzh/index.m3u8
+梧州新闻综合,http://ik.zjx5106.xyz:8001/rtp/239.81.0.176:4056
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
@@ -300,6 +307,7 @@ RTHK32,http://rihou.cc:555/tv/[SX]RTHK-32
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
+今日俄罗斯,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 半岛电视台,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 美国有线新闻,https://newsmax-vizio.amagi.tv/playlist720p.m3u8
 BBC NEWS,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -482,18 +490,25 @@ Action Hollywood,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningi
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://106.53.99.30/tv/hot.php?id=fhhk
+凤凰香港,http://r.jdshipin.com/yDoTN$LR•IPV4『线路7』
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk$LR•IPV4『线路10』
+凤凰中文,http://106.53.99.30/tv/hot.php?id=fhzw
+凤凰中文,http://r.jdshipin.com/cCCzW$LR•IPV4『线路23』
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw$LR•IPV4『线路24』
+凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路19』
+凤凰资讯,http://106.53.99.30/tv/hot.php?id=fhzx
+凤凰资讯,http://r.jdshipin.com/0Rp07$LR•IPV4『线路28
 无线新闻,http://hls.168.us.kg/u/83/master.m3u8
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 无线新闻,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153399
-无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
 无线新闻,http://r.jdshipin.com/CkuBd
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
-有线新闻,http://hls.168.us.kg/u/78/master.m3u8
+HOY77,http://r.jdshipin.com/sFw4S
+HOY78,http://hls.168.us.kg/u/78/master.m3u8
 TVB Pearl,http://iptv.4666888.xyz/iptv2A.php?id=29
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,http://r.jdshipin.com/TcKr2
@@ -509,10 +524,10 @@ NOW直播台,http://hls.168.us.kg/u/331/master.m3u8
 风儿ventoTV,#genre#
 广西新闻,http://ik.zjx5106.xyz:8001/rtp/239.81.0.248:4056
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen.m3u8
+南宁新闻综合,rtmp://live.gxrb.com.cn/tv/nntv
 南宁新闻综合,http://ik.zjx5106.xyz:8001/rtp/239.81.0.241:4056
 南宁新闻综合,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
-南宁新闻综合,rtmp://live.gxrb.com.cn/tv/nntv
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁公共频道,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
