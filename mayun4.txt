@@ -241,7 +241,6 @@ CCTV-17农业农村,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test2
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://120.198.86.186:9901/tsfile/live/1037_1.m3u8
 凤凰资讯,http://106.53.99.30/tv/hot.php?id=fhzx
 无线新闻,http://hls.168.us.kg/u/83/master.m3u8
 无线新闻,http://r.jdshipin.com/CkuBd
@@ -435,7 +434,6 @@ Action Hollywood,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningi
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://120.198.86.186:9901/tsfile/live/1037_1.m3u8
 凤凰资讯,http://106.53.99.30/tv/hot.php?id=fhzx
 无线新闻,http://hls.168.us.kg/u/83/master.m3u8
 无线新闻,http://r.jdshipin.com/CkuBd
