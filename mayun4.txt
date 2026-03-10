@@ -272,6 +272,10 @@ RTHK32,http://rihou.cc:555/tv/[SX]RTHK-32
 澳门Macau,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
 澳视澳门,http://r.jdshipin.com/n2YZI
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
+台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
+中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
+CTS华视新闻资讯,http://74.91.26.218:82/live/ctsnews.m3u8
+民视新闻台,http://74.91.26.218:82/live/ftvnews.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
