@@ -271,8 +271,8 @@ RTHK32,http://rihou.cc:555/tv/[SX]RTHK-32
 澳门Macau,http://r.jdshipin.com/QFhCq
 澳门Macau,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
 澳视澳门,http://r.jdshipin.com/n2YZI
-台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
+台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 CTS华视新闻资讯,http://74.91.26.218:82/live/ctsnews.m3u8
 民视新闻台,http://74.91.26.218:82/live/ftvnews.m3u8
@@ -460,7 +460,11 @@ NOW直播台,http://hls.168.us.kg/u/331/master.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 澳门Macau,http://r.jdshipin.com/QFhCq
 澳视澳门,http://r.jdshipin.com/n2YZI
+台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
+中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
+CTS华视新闻资讯,http://74.91.26.218:82/live/ctsnews.m3u8
+民视新闻台,http://74.91.26.218:82/live/ftvnews.m3u8
 风儿ventoTV,#genre#
 广西新闻,http://ik.zjx5106.xyz:8001/rtp/239.81.0.248:4056
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen.m3u8
