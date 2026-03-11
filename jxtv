@@ -430,3 +430,8 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 BBC NEWS,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+CCTV13,https://live-play.cctv.com/live/cctv13.m3u8
+CCTV13,http://live.cctv.com/live/cctv13/index.m3u8
+佛山综合,rtp://239.253.43.57:5146
+佛山综合,http://183.10.180.56:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
+佛山综合,http://gd-zb-dx-1.sohu.blog/rtp/239.253.43.57:5146
