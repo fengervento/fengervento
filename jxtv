@@ -430,3 +430,30 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 BBC NEWS,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+CCTV-1综合,rtp://239.253.92.83:8012
+CCTV-2财经,rtp://239.253.92.190:6065
+CCTV-3综艺,rtp://239.253.92.191:6057
+CCTV-4亚洲,rtp://239.253.92.251:6141
+CCTV-5体育,rtp://239.253.92.181:6046
+CCTV-5+体育赛事,rtp://239.253.92.82:8013
+CCTV-6电影,rtp://239.253.92.193:6058
+CCTV-7国防军事,rtp://239.253.92.194:6059
+CCTV-8电视剧,rtp://239.253.92.195:6060
+CCTV-9纪录,rtp://239.253.92.107:6020
+CCTV-10科教,rtp://239.253.92.196:6061
+CCTV-11戏曲,rtp://239.253.93.153:6321
+CCTV-12社会与法,rtp://239.253.92.197:6062
+CCTV-13新闻,rtp://239.253.92.13:8008
+CCTV-14少儿,rtp://239.253.92.198:6063
+CCTV-15音乐,rtp://239.253.93.154:6322
+CCTV-16奥林匹克,rtp://239.253.94.35:6635
+CCTV-17农业农村,rtp://239.253.93.150:6318
+CGTN国际,rtp://239.253.92.15:8011
+CCTV4中文国际欧洲,rtp://239.253.93.192:6370
+CCTV4中文国际美洲,rtp://239.253.93.193:6371
+CGTN 英文记录,rtp://239.253.93.195:6373
+CGTN 西班牙语,rtp://239.253.93.196:6374
+CGTN 法语,rtp://239.253.93.197:6375
+CGTN 阿拉伯语,rtp://239.253.93.198:6376
+CGTN 俄语,rtp://239.253.93.199:6377
+
