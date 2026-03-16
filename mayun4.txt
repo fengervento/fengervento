@@ -254,6 +254,15 @@ CCTV-17农业农村,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test2
 南宁新闻综合,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 柳州新闻综合,http://ik.zjx5106.xyz:8001/rtp/239.81.0.175:4056
+柳州新闻综合,https://live.lzgd.com.cn/tv/1902
+柳州新闻综合,https://m.tvmao.com/program/GXLZTV-GXLZTV1-w6.html
+柳州新闻综合,http://cdnrrs.gx.chinamobile.com/pltv/77777777/224/3221226348/index.m3u8?servicetype=1
+柳州新闻综合,http://gxyd.484947.xyz/pltv/77777777/224/3221226348/index.m3u8?servicetype=1
+柳州新闻综合,https://github.com/vbskycn/iptv
+柳州新闻综合,https://live.zbds.top/tv/iptv4.m3u
+柳州新闻综合,https://live.zbds.top/tv/iptv6.m3u
+柳州新闻综合,https://www.m3u8live.cn/
+柳州新闻综合,https://web.guangdianyun.tv/tv/?id=1902&uin=3370
 桂林新闻综合,rtmp://202.103.242.190/live/TVxw
 桂林新闻综合,rtmp://mchb.gltvs.com/live/TVxw
 桂林公共频道,rtmp://mchb.gltvs.com/live/TVgg
