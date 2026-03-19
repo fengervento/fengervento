@@ -296,7 +296,6 @@ RTHK32,http://rihou.cc:555/tv/[SX]RTHK-32
 CTS华视新闻资讯,http://74.91.26.218:82/live/ctsnews.m3u8
 民视新闻台,http://74.91.26.218:82/live/ftvnews.m3u8
 TVBS新闻台,http://iptv.4666888.xyz/iptv2A.php?id=43
-龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
