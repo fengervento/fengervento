@@ -231,7 +231,6 @@ CCTV-14少儿,http://iptv.4666888.xyz/iptv2A.php?id=12
 广州南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=6a8b48f5aa911a8a860e061961971710&txTime=19744c5bcb0
 广西卫视,http://113.15.109.216:59901/tsfile/live/0113_1.m3u8
 广西卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
-广西卫视,http://106.53.99.30/tv/hot.php?id=gxws
 广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 广西卫视,https://60.191.56.186:8888/hls/58/index.m3u8
 广西新闻,http://ik.zjx5106.xyz:8001/rtp/239.81.0.248:4056
@@ -290,11 +289,7 @@ RTHK32,http://rihou.cc:555/tv/[SX]RTHK-32
 澳门Macau,http://r.jdshipin.com/QFhCq
 澳视澳门,http://r.jdshipin.com/n2YZI
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
-台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
-中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
-CTS华视新闻资讯,http://74.91.26.218:82/live/ctsnews.m3u8
-民视新闻台,http://74.91.26.218:82/live/ftvnews.m3u8
 TVBS新闻台,http://iptv.4666888.xyz/iptv2A.php?id=43
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -479,11 +474,8 @@ NOW新闻台,http://cdn.163189.xyz/163189/now
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 澳门Macau,http://r.jdshipin.com/QFhCq
 澳视澳门,http://r.jdshipin.com/n2YZI
-台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
-中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
-CTS华视新闻资讯,http://74.91.26.218:82/live/ctsnews.m3u8
-民视新闻台,http://74.91.26.218:82/live/ftvnews.m3u8
+TVBS新闻台,http://iptv.4666888.xyz/iptv2A.php?id=43
 风儿ventoTV,#genre#
 广西新闻,http://ik.zjx5106.xyz:8001/rtp/239.81.0.248:4056
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen.m3u8
@@ -525,3 +517,22 @@ BBC NEWS,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bb
 NBC News Now,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+风儿vento电影,#genre#
+IQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
+千禧经典台,http://iptv.4666888.xyz/iptv2A.php?id=22
+美亚电影台,http://iptv.4666888.xyz/iptv2A.php?id=30
+MyTV SUPER,http://iptv.4666888.xyz/iptv2A.php?id=32
+翡翠剧集台,http://iptv.4666888.xyz/iptv2A.php?id=33
+黄金华剧台,http://iptv.4666888.xyz/iptv2A.php?id=34
+动画片,http://iptv.4666888.xyz/iptv2A.php?id=40
+靖洋戏剧台,http://iptv.4666888.xyz/iptv2A.php?id=42
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
+ROCK ACTION,http://iptv.4666888.xyz/iptv2A.php?id=50
+影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
+纬来电影,http://iptv.4666888.xyz/iptv2A.php?id=54
+靖天电影台,http://iptv.4666888.xyz/iptv2A.php?id=56
+电影,http://iptv.4666888.xyz/iptv2A.php?id=59
+龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
+中国电影频道,http://iptv.4666888.xyz/iptv2A.php?id=61
+Action Hollywood,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
