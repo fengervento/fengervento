@@ -550,3 +550,4 @@ ROCK ACTION,http://iptv.4666888.xyz/iptv2A.php?id=50
 电影,http://iptv.4666888.xyz/iptv2A.php?id=59
 龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
 中国电影频道,http://iptv.4666888.xyz/iptv2A.php?id=61
+Action Hollywood,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
