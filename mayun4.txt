@@ -35,7 +35,6 @@ CCTV-14少儿,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
 CCTV-15音乐,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
 CCTV-16奥林匹克,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
 CCTV-17农业农村,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
-CCTV-13新闻,https://cdn3.163189.xyz/163189/cctv13
 CCTV-1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2财经,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3综艺,http://74.91.26.218:82/live/cctv3hd.m3u8
@@ -72,6 +71,7 @@ CCTV-14少儿,http://1.197.204.20:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive
 CCTV-15音乐,http://1.197.204.20:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16奥林匹克,http://1.197.204.20:85/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17农业农村,http://1.197.204.20:85/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13新闻,https://cdn3.163189.xyz/163189/cctv13
 CCTV-1综合,https://60.191.56.186:8888/hls/1/index.m3u8
 CCTV-2财经,https://60.191.56.186:8888/hls/2/index.m3u8
 CCTV-3综艺,https://60.191.56.186:8888/hls/3/index.m3u8
