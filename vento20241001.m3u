@@ -127,15 +127,7 @@ http://r.jdshipin.com/QFhCq
 #EXTINF:-1,澳视澳门
 http://r.jdshipin.com/n2YZI
 #EXTINF:-1,台视新闻
-http://74.91.26.218:82/live/ttvnews.m3u8
-#EXTINF:-1,台视新闻
 https://live.wcetv.com/hls/master-ttvnews.m3u8
-#EXTINF:-1,中视新闻
-http://74.91.26.218:82/live/ctvnews.m3u8
-#EXTINF:-1,CTS华视新闻资讯
-http://74.91.26.218:82/live/ctsnews.m3u8
-#EXTINF:-1,民视新闻台
-http://74.91.26.218:82/live/ftvnews.m3u8
 #EXTINF:-1,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1,CGTN
