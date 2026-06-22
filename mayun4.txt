@@ -369,7 +369,6 @@ NOW新闻台,http://cdn.163189.xyz/163189/now
 澳门Macau,http://r.jdshipin.com/QFhCq
 澳视澳门,http://r.jdshipin.com/n2YZI
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
-TVBS新闻台,http://iptv.4666888.xyz/iptv2A.php?id=43
 风儿ventoTV,#genre#
 南宁新闻综合,rtmp://live.gxrb.com.cn/tv/nntv
 南宁新闻综合,http://ik.zjx5106.xyz:8001/rtp/239.81.0.241:4056
