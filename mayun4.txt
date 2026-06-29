@@ -247,6 +247,7 @@ RTHK32,http://rihou.cc:555/tv/[Cx]RTHK-32
 澳视澳门,http://r.jdshipin.com/n2YZI
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
+TVBS新闻台,http://iptv.4666888.xyz/iptv2A.php?id=43
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
