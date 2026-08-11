@@ -182,8 +182,6 @@ CCTV-15音乐,http://153.0.171.163:9901/tsfile/live/1014_1.m3u8
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 桂林新闻综合,rtmp://202.103.242.190/live/TVxw
 桂林新闻综合,rtmp://mchb.gltvs.com/live/TVxw
-桂林公共频道,rtmp://mchb.gltvs.com/live/TVgg
-桂林公共频道,rtmp://202.103.242.190/live/TVgg
 桂林科教旅游,rtmp://mchb.gltvs.com/live/TVkj
 桂林科教旅游,rtmp://202.103.242.190/live/TVkj
 梧州新闻综合,http://live.wuzhourm.cn/xwzh/index.m3u8
@@ -321,8 +319,6 @@ TVBS新闻台,http://iptv.4666888.xyz/iptv2A.php?id=43
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 桂林新闻综合,rtmp://202.103.242.190/live/TVxw
 桂林新闻综合,rtmp://mchb.gltvs.com/live/TVxw
-桂林公共频道,rtmp://mchb.gltvs.com/live/TVgg
-桂林公共频道,rtmp://202.103.242.190/live/TVgg
 桂林科教旅游,rtmp://mchb.gltvs.com/live/TVkj
 桂林科教旅游,rtmp://202.103.242.190/live/TVkj
 梧州新闻综合,http://live.wuzhourm.cn/xwzh/index.m3u8
