@@ -183,7 +183,6 @@ CCTV-11戏曲,http://36.110.54.118:866/hls/11/index.m3u8
 CCTV-14少儿,http://36.110.54.118:866/hls/12/index.m3u8
 CCTV-1综合,http://183.47.2.156:16883/rtp/239.77.0.129:5146
 CCTV-13新闻,http://218.206.193.218:8888/hls/13/index.m3u8
-广东卫视,http://go.bkpcp.top/mg/gdws
 广东卫视,http://hmfs.f3322.net:3388/hls/11/index.m3u8
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 广东卫视,http://218.13.170.98:9901/tsfile/live/0017_1.m3u8
@@ -210,8 +209,8 @@ CCTV-13新闻,http://218.206.193.218:8888/hls/13/index.m3u8
 广州新闻,https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=c53d0e4d014632321a8e0efd6abecda4&txTime=193108637cb
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 广州南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=6a8b48f5aa911a8a860e061961971710&txTime=19744c5bcb0
-广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 广西卫视,http://113.15.109.216:59901/tsfile/live/0113_1.m3u8
+广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 广西卫视,http://218.13.170.98:9901/tsfile/live/1019_1.m3u8
 广西卫视,http://111.8.242.142:9999/tsfile/live/1022_1.m3u8
 广西卫视,http://111.8.242.127:9999/tsfile/live/1022_1.m3u8
@@ -258,8 +257,8 @@ WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 Zoo Moo (Australia),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 Action Hollywood,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
 省卫视,#genre#
-广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 广西卫视,http://113.15.109.216:59901/tsfile/live/0113_1.m3u8
+广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 广西卫视,http://218.13.170.98:9901/tsfile/live/1019_1.m3u8
 湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8
 江苏卫视,http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8
@@ -396,7 +395,6 @@ MyTV SUPER,http://iptv.4666888.xyz/iptv2A.php?id=32
 靖天卡通台,http://iptv.4666888.xyz/iptv2A.php?id=42
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
-民视,http://iptv.4666888.xyz/iptv2A.php?id=54
 靖天电影台,http://iptv.4666888.xyz/iptv2A.php?id=55
 龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=57
 中国电影频道,http://iptv.4666888.xyz/iptv2A.php?id=18
