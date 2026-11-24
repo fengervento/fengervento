@@ -187,7 +187,7 @@ CCTV-13新闻,http://218.206.193.218:8888/hls/13/index.m3u8
 广州新闻,https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=c53d0e4d014632321a8e0efd6abecda4&txTime=193108637cb
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 广州南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=6a8b48f5aa911a8a860e061961971710&txTime=19744c5bcb0
-广西卫视,http://113.15.109.216:59901/tsfile/live/0113_1.m3u8
+广西卫视,http://107.150.60.122/live/gxwshd.m3u8
 广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 广西卫视,http://218.13.170.98:9901/tsfile/live/1019_1.m3u8
 广西新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxxw
@@ -214,7 +214,6 @@ CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cgtn
 CGTN,http://t.061899.xyz/tl/dq.php?id=cgtn
-半岛电视台,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 今日俄罗斯,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 美国有线新闻,https://newsmax-vizio.amagi.tv/playlist720p.m3u8
 BBC NEWS,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -225,6 +224,7 @@ WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 Zoo Moo (Australia),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 Action Hollywood,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
 CinemaWorld,http://iptv.4666888.xyz/iptv2A.php?id=40
+CHINA MOVIE,http://iptv.4666888.xyz/iptv2A.php?id=18
 省卫视,#genre#
 广西卫视,http://113.15.109.216:59901/tsfile/live/0113_1.m3u8
 广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
@@ -304,7 +304,6 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 金鹰卡通,https://60.191.56.186:8888/hls/59/index.m3u8
 NHK World,http://170.83.16.50/NHK_WORLD/index.m3u8
-半岛电视台,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 今日俄罗斯,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 国际|REDBULL SPORTS,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 美国|CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
